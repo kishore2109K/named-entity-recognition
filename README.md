@@ -1,7 +1,6 @@
 
-### 
 
-# <p align = "center"> Named Entity Recognition </p>
+## Named Entity Recognition 
  
 
 ## AIM
